@@ -1,0 +1,27 @@
+{
+  "name": "@ripter/mocha-reporter-blink1",
+  "version": "0.0.1",
+  "description": "Mocha reporter that flashes a blink(1) device red or green.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripter/mocha-reporter-blink1.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "blink(1)"
+  ],
+  "author": "Chris Richards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripter/mocha-reporter-blink1/issues"
+  },
+  "homepage": "https://github.com/ripter/mocha-reporter-blink1#readme",
+  "dependencies": {
+    "node-blink1": "^0.2.2"
+  }
+}
