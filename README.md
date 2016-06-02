@@ -12,4 +12,4 @@ mocha -R @ripter/mocha-reporter-blink1
 ```
 
 ## Notes:
-It works better if you use a tool like `watch` continually run the tests.
+It works better if you use a tool like `watch` to continually run the tests.
